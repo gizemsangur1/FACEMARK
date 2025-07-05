@@ -17,7 +17,7 @@ No cards. No QR codes. Just your face.
 
 ## 🖥️ Demo
 
-![screenshot](screenshots/facemark.jpg)  
+![screenshot](/facemark.jpg)  
 *Real-time recognition and automatic attendance marking*
 
 ---
